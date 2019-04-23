@@ -35,7 +35,7 @@ public class JsonUtils {
 
             Sandwich sandwich = new Sandwich(
                     mainName,
-                    ingredientsList,
+                    akaList,
                     origin,
                     description,
                     imageUrlString,
